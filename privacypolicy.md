@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta name='viewport' content='width=device-width'>
-    <title>プライバシーポリシー</title>
-    <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-</head>
-<body>
 <strong>プライバシーポリシー</strong> <p>
     NS Laboratoryは、FIXedPointアプリを無料アプリとして構築しました。
     本サービスは、NS Laboratoryによって無償で提供され、そのまま使用することができます。
@@ -65,5 +56,3 @@
 </p> <p>このポリシーは、2023/01/06より有効となります。</p> <p><strong>お問い合わせ</strong></p> <p>
     私たちのプライバシーポリシーについてご質問やご提案がありましたら、ご遠慮なく support@ns-laboratory.com までご連絡ください。
 </p> <p>このプライバシーポリシーのページは <a href="https://privacypolicytemplate.net" target="_blank" rel="noopener noreferrer">privacypolicytemplate.net </a>で作成され、 <a href="https://app-privacy-policy-generator.nisrulz.com/" target="_blank" rel="noopener noreferrer">App Privacy Policy Generator</a>で修正/生成されました。</p>
-</body>
-</html>
